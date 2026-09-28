@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\Feature\\MatchingEngineTest::test_haversine_distance_calculation":0.219,"Tests\\Feature\\MatchingEngineTest::test_matching_engine_filters_only_verified_and_online_providers":4.7}}
